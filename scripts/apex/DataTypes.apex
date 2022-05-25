@@ -14,4 +14,5 @@ update dummyEmailContacts;
 */
 
 UpdateContactEmailAddress uce = new UpdateContactEmailAddress();
-uce.updateEmail();
+//uce.updateEmail();
+uce.removeDummyEmail();

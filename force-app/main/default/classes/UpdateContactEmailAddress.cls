@@ -10,4 +10,12 @@ public with sharing class UpdateContactEmailAddress {
         update dummyEmailContacts;
     }
 
+    public void removeDummyEmail(){
+        List<Contact> dummyEmailContacts = new List<Contact>();
+        dummyEmailContacts = [ SELECT firstname, lastname, email FROM Contact where  Email Like 'Dummy%' WITH SECURITY_ENFORCED ];
+        for(Contact con : dummyEmailContacts){
+            con.Email =  con.Email.removeStartIgnoreCase('Dummy')  ;
+        }
+        update dummyEmailContacts;
+    }
 }
