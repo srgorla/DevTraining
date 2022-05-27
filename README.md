@@ -31,8 +31,8 @@ Good resources
 
 
 Day1
-    - VS Code Tour 
-    - Install Salesforce Extension Pack
+- VS Code Tour 
+- Install Salesforce Extension Pack
     - Authenticate Org from VS Code
     - Retrieve Source from Org
     - Deploy Source to Org
