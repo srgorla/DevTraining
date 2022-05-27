@@ -1,20 +1,18 @@
+# Salesforce Developer Training
 [Developer Taining Agenda](https://github.com/srgorla/DevTraining/blob/master/DevTrainingAgenda.txt)
-
-
 [Training Videos](https://onedrive.live.com/?authkey=%21AMLuYPs5TIoDagQ&id=D44A140F275D720D%213624&cid=D44A140F275D720D)
 request access from Sampath (if doesnt work)
-
 [Training Class source code](https://github.com/srgorla/DevTraining)
 
 
-Introduction
+## Introduction
 - [Tools and Developer Expectations](https://github.com/srgorla/DevTraining/blob/master/Developer%20Training%20Team.xlsx)
 - [Requeired DevTools Installation (VS Code, Salesforce CLI, JDK setup and path settings in VS Code )](https://developer.salesforce.com/tools/vscode/en/getting-started/install)
 - [Sign up for free Developer Edition Org](https://developer.salesforce.com/signup)
 
 
 
-Good resources 
+## Good resources 
 - [Developer Blogs](https://developer.salesforce.com/blogs)
 - [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
 - [Apex Recipes](https://github.com/trailheadapps/apex-recipes)
@@ -22,7 +20,7 @@ Good resources
 - [Prepare for Your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
 
 
-Day1
+## Day 1
 - VS Code Tour 
 - Install Salesforce Extension Pack
 - Authenticate Org from VS Code
@@ -41,12 +39,12 @@ Day1
 
 
 
-Day 1 Home work
+## Day 1 Home work
 - [Quickstart - Apex](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex)
 - [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner)
 - [Apply .NET Skills to Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet)
 
-Day2 
+## Day2 
 - [Apex Data types](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm)
 - Primitives 
     - Date, Time, DateTime, Boolean, Integer
@@ -59,7 +57,7 @@ Day2
 - Salesforce CLI 
 
 
-Day3 
+## Day3 
 - Apex Triggers
 - Trigger Context 
 - Trigger Context Variables
@@ -69,9 +67,9 @@ Day3
 
 
 
-Topics to cover 
+## Topics to cover 
 
-Day4 
+## Day4 
 - Apex Triggers (Focus on After triggers)
 - [Bulkification](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
@@ -91,8 +89,7 @@ Future methods
 
 Callouts
 [Connect Api](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm)
-
-Project 
+## Project 
     [Apex Specialist Super badge](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
 
 
