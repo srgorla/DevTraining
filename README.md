@@ -27,6 +27,7 @@ Introduction
 Good resources 
     [Developer Blogs](https://developer.salesforce.com/blogs)
     [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
+    [Apex Recipes](https://github.com/trailheadapps/apex-recipes)
 
 
 
@@ -50,12 +51,9 @@ Day1
 
 
 Day 1 Home work
-    [Quickstart - Apex](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex)
-    
-
-    [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner)
-
-    [Apply .NET Skills to Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet)
+- [Quickstart - Apex](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex)
+- [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner)
+- [Apply .NET Skills to Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet)
 
 Day2 
 - [Apex Data types](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm)
@@ -83,13 +81,13 @@ Day3
 Topics to cover 
 
 Day4 
-    Apex Triggers (Focus on After triggers)
-    [Bulkification] (https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
+- Apex Triggers (Focus on After triggers)
+- [Bulkification](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
 
 
-Apex Testing
-Callouts 
+- Apex Testing
+- Callouts 
 
 [Asynchrounous Apex](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_async_overview.htm)
 
@@ -106,7 +104,7 @@ Callouts
 Project 
     [Apex Specialist Super badge](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
 
-[Apex Recipes](https://github.com/trailheadapps/apex-recipes)
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
