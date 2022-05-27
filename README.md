@@ -25,47 +25,47 @@ Prepare for Your Salesforce Platform Developer I Credential
 https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential
 
 Good resources 
-https://developer.salesforce.com/blogs
-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+    https://developer.salesforce.com/blogs
+    https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
 
 
 
 Day1
-VS Code Tour 
-Install Salesforce Extension Pack
-Authenticate Org from VS Code
-Retrieve Source from Org
-Deploy Source to Org
-SOQL query Editor in VS Code 
-Autocomplete in IDE
-Apex Data types
-System.debug()
-Apex Overivew
-Anonymous Apex 
-Apex Class
-Inviking Apex
-Governor Limits
+    VS Code Tour 
+    Install Salesforce Extension Pack
+    Authenticate Org from VS Code
+    Retrieve Source from Org
+    Deploy Source to Org
+    SOQL query Editor in VS Code
+    Autocomplete in IDE
+    Apex Data types
+    System.debug()
+    Apex Overivew
+    Anonymous Apex
+    Apex Class
+    Inviking Apex
+    Governor Limits
 
 
 
 
 Day 1 Home work 
-https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex
+    https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex
 
-Apex Basics & Database
-https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner
+    Apex Basics & Database
+    https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner
 
-Apply .NET Skills to Salesforce
-https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet
+    Apply .NET Skills to Salesforce
+    https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet
 
 Day2 
-Apex Data types
-Primitives (Date, Time, DateTime, Boolean, Integer)
-Sobject
-Typecasting
-Apex Collections (List, Set, Map)
-github
-git 
+    Apex Data types
+    Primitives (Date, Time, DateTime, Boolean, Integer)
+    Sobject
+    Typecasting
+    Apex Collections (List, Set, Map)
+    github
+    git 
 
 
 https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm
@@ -74,21 +74,21 @@ Salesforce CLI
 
 
 Day3 
-Apex Triggers
-Trigger Context 
-Trigger Context Variables
-Apex Service Class 
-Apex Replay Debugger 
-Best practices
+    Apex Triggers
+    Trigger Context 
+    Trigger Context Variables
+    Apex Service Class 
+    Apex Replay Debugger 
+    Best practices
 
 
 
 Topics to cover 
 
 Day4 
-Apex Triggers (Focus on After triggers)
-Bulkification 
-https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm
+    Apex Triggers (Focus on After triggers)
+    Bulkification 
+    https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm
 
 
 
