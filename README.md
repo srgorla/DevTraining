@@ -1,32 +1,32 @@
-Developer Taining Agenda 
-https://github.com/srgorla/DevTraining/blob/master/DevTrainingAgenda.txt
+[Developer Taining Agenda](https://github.com/srgorla/DevTraining/blob/master/DevTrainingAgenda.txt)
 
-Training Videos 
-https://onedrive.live.com/?authkey=%21AMLuYPs5TIoDagQ&id=D44A140F275D720D%213624&cid=D44A140F275D720D
+
+[Training Videos](https://onedrive.live.com/?authkey=%21AMLuYPs5TIoDagQ&id=D44A140F275D720D%213624&cid=D44A140F275D720D)
 request access from Sampath (if doesnt work)
 
-Training Class source code 
-https://github.com/srgorla/DevTraining
+[Training Class source code](https://github.com/srgorla/DevTraining)
+
 
 Introduction
-https://github.com/srgorla/DevTraining/blob/master/Developer%20Training%20Team.xlsx
-
-Requeired DevTools Installation (VS Code, Salesforce CLI, JDK setup and path settings in VS Code )
-https://developer.salesforce.com/tools/vscode/en/getting-started/install
+[Tools and Developer Expectations](https://github.com/srgorla/DevTraining/blob/master/Developer%20Training%20Team.xlsx)
 
 
-Sign up for free Developer Edition Org
-https://developer.salesforce.com/signup
+[Requeired DevTools Installation (VS Code, Salesforce CLI, JDK setup and path settings in VS Code )](https://developer.salesforce.com/tools/vscode/en/getting-started/install)
 
-TrailMix 
-https://trailhead.salesforce.com/en/users/bgong0630/trailmixes/dex-450-trailhead-home-work
 
-Prepare for Your Salesforce Platform Developer I Credential
-https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential
+
+[Sign up for free Developer Edition Org](https://developer.salesforce.com/signup)
+
+
+[TrailMix](https://trailhead.salesforce.com/en/users/bgong0630/trailmixes/dex-450-trailhead-home-work)
+
+
+[Prepare for Your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
+
 
 Good resources 
-    https://developer.salesforce.com/blogs
-    https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+    [Developer Blogs](https://developer.salesforce.com/blogs)
+    [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
 
 
 
@@ -49,17 +49,16 @@ Day1
 
 
 
-Day 1 Home work 
-    https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex
+Day 1 Home work
+    [Quickstart - Apex](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex)
+    
 
-    Apex Basics & Database
-    https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner
+    [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner)
 
-    Apply .NET Skills to Salesforce
-    https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet
+    [Apply .NET Skills to Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet)
 
 Day2 
-- Apex Data types
+- [Apex Data types](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm)
 - Primitives 
     - Date, Time, DateTime, Boolean, Integer
 - Sobject
@@ -67,12 +66,8 @@ Day2
 - Apex Collections 
     - List, Set, Map
 - github
-- git 
-
-
-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm
-
-Salesforce CLI 
+- git
+- Salesforce CLI 
 
 
 Day3 
@@ -89,8 +84,7 @@ Topics to cover
 
 Day4 
     Apex Triggers (Focus on After triggers)
-    Bulkification 
-    https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm
+    [Bulkification] (https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
 
 
@@ -107,13 +101,12 @@ Future methods
     Callouts to external services
 
 Callouts
-Connect Api 
-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm
+[Connect Api](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm)
 
 Project 
-Super badge 
-https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex
-https://github.com/trailheadapps/apex-recipes
+    [Apex Specialist Super badge](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
+
+[Apex Recipes](https://github.com/trailheadapps/apex-recipes)
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
