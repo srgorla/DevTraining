@@ -1,3 +1,5 @@
+Developer Taining Agenda 
+https://github.com/srgorla/DevTraining/blob/master/DevTrainingAgenda.txt
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
