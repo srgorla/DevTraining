@@ -8,27 +8,18 @@ request access from Sampath (if doesnt work)
 
 
 Introduction
-[Tools and Developer Expectations](https://github.com/srgorla/DevTraining/blob/master/Developer%20Training%20Team.xlsx)
+- [Tools and Developer Expectations](https://github.com/srgorla/DevTraining/blob/master/Developer%20Training%20Team.xlsx)
+- [Requeired DevTools Installation (VS Code, Salesforce CLI, JDK setup and path settings in VS Code )](https://developer.salesforce.com/tools/vscode/en/getting-started/install)
+- [Sign up for free Developer Edition Org](https://developer.salesforce.com/signup)
 
-
-[Requeired DevTools Installation (VS Code, Salesforce CLI, JDK setup and path settings in VS Code )](https://developer.salesforce.com/tools/vscode/en/getting-started/install)
-
-
-
-[Sign up for free Developer Edition Org](https://developer.salesforce.com/signup)
-
-
-[TrailMix](https://trailhead.salesforce.com/en/users/bgong0630/trailmixes/dex-450-trailhead-home-work)
-
-
-[Prepare for Your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
 
 
 Good resources 
-    [Developer Blogs](https://developer.salesforce.com/blogs)
-    [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
-    [Apex Recipes](https://github.com/trailheadapps/apex-recipes)
-
+- [Developer Blogs](https://developer.salesforce.com/blogs)
+- [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
+- [Apex Recipes](https://github.com/trailheadapps/apex-recipes)
+- [TrailMix](https://trailhead.salesforce.com/en/users/bgong0630/trailmixes/dex-450-trailhead-home-work)
+- [Prepare for Your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
 
 
 Day1
