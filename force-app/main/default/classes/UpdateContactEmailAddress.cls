@@ -1,13 +1,15 @@
 public with sharing class UpdateContactEmailAddress {
-    public  void   updateEmail(){
-        List<Contact> dummyEmailContacts = new List<Contact>();
-        dummyEmailContacts = [ SELECT firstname, lastname, email FROM Contact where  email  != null AND  (NOT  (Email Like 'Dummy%')) WITH SECURITY_ENFORCED ];
-        for(Contact con : dummyEmailContacts){
-            //if(con.email != null){
-            con.Email = 'Dummy' + con.Email  ;
-            //}
+    public  static void   updateEmail(List<Contact> conts){
+        //List<Contact> dummyEmailContacts = new List<Contact>();
+        //dummyEmailContacts = [ SELECT firstname, lastname, email FROM Contact where  email  != null AND  (NOT  (Email Like 'Dummy%')) WITH SECURITY_ENFORCED ];
+        for(Contact con : conts){
+            system.debug(con.email);
+            if(con.email != null && !con.Email.containsIgnoreCase('Dummy') ){
+                con.Email = 'Dummy' + con.Email  ;
+                system.debug('at the end');
+            }
         }
-        update dummyEmailContacts;
+        //update dummyEmailContacts;
     }
 
     public void removeDummyEmail(){
