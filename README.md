@@ -59,13 +59,15 @@ Day 1 Home work
     https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet
 
 Day2 
-    Apex Data types
-    Primitives (Date, Time, DateTime, Boolean, Integer)
-    Sobject
-    Typecasting
-    Apex Collections (List, Set, Map)
-    github
-    git 
+- Apex Data types
+- Primitives 
+    - Date, Time, DateTime, Boolean, Integer
+- Sobject
+- Typecasting
+- Apex Collections 
+    - List, Set, Map
+- github
+- git 
 
 
 https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm
@@ -74,12 +76,12 @@ Salesforce CLI
 
 
 Day3 
-    Apex Triggers
-    Trigger Context 
-    Trigger Context Variables
-    Apex Service Class 
-    Apex Replay Debugger 
-    Best practices
+- Apex Triggers
+- Trigger Context 
+- Trigger Context Variables
+- Apex Service Class 
+- Apex Replay Debugger 
+- Best practices
 
 
 
@@ -95,8 +97,8 @@ Day4
 Apex Testing
 Callouts 
 
-Asynchrounous Apex
-https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_async_overview.htm
+[Asynchrounous Apex](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_async_overview.htm)
+
 Queueable Apex
 Batch Apex 
 Schedule Apex 
