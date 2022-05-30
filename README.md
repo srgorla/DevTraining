@@ -1,7 +1,7 @@
 # Salesforce Developer Training
 [Developer Taining Agenda](https://github.com/srgorla/DevTraining/blob/master/DevTrainingAgenda.txt)
 [Training Videos](https://onedrive.live.com/?authkey=%21AMLuYPs5TIoDagQ&id=D44A140F275D720D%213624&cid=D44A140F275D720D)
-request access from Sampath (if doesnt work)
+request access (if doesnt work)
 [Training Class source code](https://github.com/srgorla/DevTraining)
 
 
@@ -47,15 +47,15 @@ request access from Sampath (if doesnt work)
 
 ## Day2 
 - [Apex Data types](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm)
-- Primitives 
-    - Date, Time, DateTime, Boolean, Integer
-- Sobject
+- [Primitives](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_primitives.htm)
+    - Date, Time, DateTime, Boolean, Integer, String
+- [sObjects](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_SObjects.htm)
 - Typecasting
-- Apex Collections 
+- [Apex Collections](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/langCon_apex_collections.htm)
     - List, Set, Map
-- github
-- git
-- Salesforce CLI 
+- [github](https://github.com)
+- [git](https://git-scm.com)
+- [Salesforce CLI](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 
 ## Day3 
