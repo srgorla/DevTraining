@@ -59,12 +59,12 @@ request access (if doesnt work)
 
 
 ## Day3 
-- Apex Triggers
-- Trigger Context 
-- Trigger Context Variables
+- [Apex Triggers](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers.htm)
+- [Trigger Syntax](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_syntax.htm)
+- [Trigger Context Variables](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
 - Apex Service Class 
-- Apex Replay Debugger 
-- Best practices
+- [Apex Replay Debugger](https://developer.salesforce.com/tools/vscode/en/apex/replay-debugger)
+- [Trigger Best practices](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
 
 
