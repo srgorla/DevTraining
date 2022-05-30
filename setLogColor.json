@@ -1,0 +1,5 @@
+{
+    "CONSTRUCTOR_": "magenta",
+    "SOQL_": "red",
+    "DEBUG":"green"
+}
