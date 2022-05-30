@@ -15,6 +15,7 @@ request access from Sampath (if doesnt work)
 ## Good resources 
 - [Developer Blogs](https://developer.salesforce.com/blogs)
 - [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
+- [Apex Reference Guide](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ref_guide.htm)
 - [Apex Recipes](https://github.com/trailheadapps/apex-recipes)
 - [TrailMix](https://trailhead.salesforce.com/en/users/bgong0630/trailmixes/dex-450-trailhead-home-work)
 - [Prepare for Your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
