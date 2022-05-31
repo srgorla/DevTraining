@@ -22,3 +22,4 @@ Enter Ctrl+C to exit the debug log mode
 
 - [Apex Log Analyzer is also a very good tool for debug](https://financialforcedev.github.io/debug-log-analyzer/)
     - [Demo](https://www.youtube.com/watch?v=akL1aEa3lw8)
+- [Find and Fix Bugs with Apex Replay Debugger](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger)
