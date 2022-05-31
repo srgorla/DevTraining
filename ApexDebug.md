@@ -19,3 +19,6 @@ sfdx force:apex:log:get -d .sfdx/tools/debug/logs -n 10
 - [A nice video with a demo](https://www.youtube.com/watch?v=g7Rcj04c0qI&ab_channel=SalesforceDevelopers)
 
 Enter Ctrl+C to exit the debug log mode 
+
+- [Apex Log Analyzer is also a very good tool for debug](https://financialforcedev.github.io/debug-log-analyzer/)
+    - [Demo](https://www.youtube.com/watch?v=akL1aEa3lw8)

@@ -64,6 +64,7 @@ request access (if doesnt work)
 - [Trigger Context Variables](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
 - Apex Service Class 
 - [Apex Replay Debugger](https://developer.salesforce.com/tools/vscode/en/apex/replay-debugger)
+    - [Other helpful Debug instructions](https://github.com/srgorla/DevTraining/blob/master/ApexDebug.md)
 - [Trigger Best practices](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
 
