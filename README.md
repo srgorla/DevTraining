@@ -75,10 +75,21 @@ request access (if doesnt work)
 - Apex Triggers (Focus on After triggers)
 - [Using Maps and Sets in Bulk Triggers](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)
 - [Bulkification](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
+- Tool Intorduction
+    - [Salesforce Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh?hl=en)
+- [Writing Apex Unit Tests](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing.htm)
+    - Use Test Factory for Unit Test data creation
+    - use testSetup for better performace
+    - Code Coverage
+    - Debug test failures
+    - Test.start(), Test.stopTest() 
+        - to get around too many SOQL queries, 
+        - get around too many DML statements,
+        - to get around Mixed DML error
+        - to retrieve asynchronous execution results
 
 
 
-- Apex Testing
 - Callouts 
 
 [Asynchrounous Apex](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_async_overview.htm)
