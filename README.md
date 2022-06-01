@@ -73,6 +73,7 @@ request access (if doesnt work)
 
 ## Day4 
 - Apex Triggers (Focus on After triggers)
+- [Using Maps and Sets in Bulk Triggers](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)
 - [Bulkification](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
 
