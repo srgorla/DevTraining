@@ -68,9 +68,6 @@ request access (if doesnt work)
 - [Trigger Best practices](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
 
-
-## Topics to cover 
-
 ## Day4 
 - Apex Triggers (Focus on After triggers)
 - [Using Maps and Sets in Bulk Triggers](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)
@@ -89,6 +86,8 @@ request access (if doesnt work)
         - to retrieve asynchronous execution results
 
 
+
+## Next Topics to cover 
 
 - Callouts 
 
