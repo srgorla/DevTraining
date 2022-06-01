@@ -4,6 +4,8 @@ sfdx force:data:record:create -s DebugLevel -t -v "DeveloperName=From_CLI Master
 
 or you can do this by going into Salesforce org setup/debug level 
 
+NOTE: Make sure you dont have debug logs turned on while you try the above.. if both are running, debug logs wont get written to terminal. You may need to wait until the Apex replay debugger timer is expired and then try above step to set the log. 
+
 In Terminal run the grep command to see the filtered debug types (-E expression)
 sfdx force:apex:log:tail --color | grep -E "SOQL_EXECUTE_BEGIN|SOQL_EXECUTE_END|USER_DEBUG"
 please note, while this command is in wait state, then only the filtered logs can be seen 
