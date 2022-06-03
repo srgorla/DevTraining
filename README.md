@@ -63,8 +63,10 @@ request access (if doesnt work)
 - [Apex Replay Debugger](https://developer.salesforce.com/tools/vscode/en/apex/replay-debugger)
     - [Other helpful Debug instructions](https://github.com/srgorla/DevTraining/blob/master/ApexDebug.md)
 - [Trigger Best practices](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
-
-
+- [Commit](https://github.com/srgorla/DevTraining/commit/c3be1a86f27ef08d75f40ea9f6829a1d9667c7b3)
+- Home work
+    - [Apex Triggers](https://trailhead.salesforce.com/en/content/learn/modules/apex_triggers)
+    - [Replay Debugger](https://trailhead.salesforce.com/en/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger)
 ## Day 4 
 - Apex Triggers (Focus on After triggers)
 - [Using Maps and Sets in Bulk Triggers](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)
@@ -81,7 +83,7 @@ request access (if doesnt work)
         - get around too many DML statements,
         - to get around Mixed DML error
         - to retrieve asynchronous execution results
-- [commit](https://github.com/srgorla/DevTraining/commit/c64e12a0e6b468c5f9ae2707ea648b860d853bba)
+- [Commit](https://github.com/srgorla/DevTraining/commit/c64e12a0e6b468c5f9ae2707ea648b860d853bba)
 - Homework
     - [Apex Testing](https://trailhead.salesforce.com/en/content/learn/modules/apex_testing)
 ## Day 5 
