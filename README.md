@@ -58,7 +58,7 @@ request access (if doesnt work)
 - [Salesforce CLI](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 
-## Day3 
+## Day 3 
 - [Apex Triggers](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers.htm)
 - [Trigger Syntax](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_syntax.htm)
 - [Trigger Context Variables](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
@@ -68,7 +68,7 @@ request access (if doesnt work)
 - [Trigger Best practices](https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
 
 
-## Day4 
+## Day 4 
 - Apex Triggers (Focus on After triggers)
 - [Using Maps and Sets in Bulk Triggers](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)
 - [Bulkification](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
@@ -85,18 +85,17 @@ request access (if doesnt work)
         - to get around Mixed DML error
         - to retrieve asynchronous execution results
 
-
-
+## Day 5 
+- [Asynchrounous Apex](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_async_overview.htm)
+    - [Future methods](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_invoking_future_methods.htm)
+    - [Batch Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_batch.htm)
+    - [Apex Scheduler](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm)
+    - [Queueable Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_queueing_jobs.htm)
+- [Commit](https://github.com/srgorla/DevTraining/commit/03fbb0527063774993d5cdf04eabcaa5121714cc)
+- [Homework](https://trailhead.salesforce.com/en/content/learn/modules/asynchronous_apex)
 ## Next Topics to cover 
 
 - Callouts 
-
-[Asynchrounous Apex](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_async_overview.htm)
-
-Queueable Apex
-Batch Apex 
-Schedule Apex 
-Future methods
     Mixed DML
     Callouts to external services
 
