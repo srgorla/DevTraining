@@ -13,6 +13,5 @@ for(Contact con : dummyEmailContacts){
 update dummyEmailContacts;
 */
 
-UpdateContactEmailAddress uce = new UpdateContactEmailAddress();
-//uce.updateEmail();
-uce.removeDummyEmail();
+//ContactService cs = new ContactService();
+//cs.removeDummyEmail();

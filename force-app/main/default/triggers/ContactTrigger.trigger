@@ -5,6 +5,11 @@ trigger ContactTrigger on Contact (before insert, after insert,  before update, 
     //UpdateContactEmailAddress uce = new UpdateContactEmailAddress();
     //uce.updateEmail();
     //System.debug('Processing records : ' + Trigger.new);
+    if(System.isFuture() || System.isBatch()){
+        System.debug('Running in either Future or batch context - so skipping the rest of the trigger execution');
+        return;
+    }
+    System.debug('Running in either  NON Future or batch context');
     if(Trigger.isInsert){// record create     
         if(Trigger.isBefore){
         // use before context for same object record operations               
