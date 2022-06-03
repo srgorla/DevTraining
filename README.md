@@ -84,7 +84,9 @@ request access (if doesnt work)
         - get around too many DML statements,
         - to get around Mixed DML error
         - to retrieve asynchronous execution results
-
+- [commit](https://github.com/srgorla/DevTraining/commit/c64e12a0e6b468c5f9ae2707ea648b860d853bba)
+- Homework
+    - [Apex Testing](https://trailhead.salesforce.com/en/content/learn/modules/apex_testing)
 ## Day 5 
 - [Asynchrounous Apex](https://developer.salesforce.com/docs/atlas.en-us.224.0.apexcode.meta/apexcode/apex_async_overview.htm)
     - [Future methods](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_invoking_future_methods.htm)
