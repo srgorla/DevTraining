@@ -53,6 +53,12 @@ request access (if doesnt work)
 - [github](https://github.com)
 - [git](https://git-scm.com)
 - [Salesforce CLI](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+- [Commit 1](https://github.com/srgorla/DevTraining/commit/02fbebbd2b02722779d5ab2f33dac9083c9c79ee)
+- [Commit 2](https://github.com/srgorla/DevTraining/commit/fdc9345615e44ead7ad4719a29603dd39f764bd3)
+- Home work
+    - [Apex Basics for Admins](https://trailhead.salesforce.com/en/content/learn/modules/apex-basics-for-admins?trail_id=build-apex-coding-skills)
+    - [Object-Oriented Programming for Admins](https://trailhead.salesforce.com/en/content/learn/modules/object-oriented-programming-for-admins?trail_id=build-apex-coding-skills)
+    - [Use Apex to Automate Business Processes](https://trailhead.salesforce.com/en/content/learn/projects/use-apex-to-automate-business-processes?trail_id=build-apex-coding-skills)
 
 
 ## Day 3 
