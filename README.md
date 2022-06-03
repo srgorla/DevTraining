@@ -93,7 +93,8 @@ request access (if doesnt work)
     - [Apex Scheduler](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm)
     - [Queueable Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_queueing_jobs.htm)
 - [Commit](https://github.com/srgorla/DevTraining/commit/03fbb0527063774993d5cdf04eabcaa5121714cc)
-- [Homework](https://trailhead.salesforce.com/en/content/learn/modules/asynchronous_apex)
+- Homework
+    - [Asynchrounous Apex](https://trailhead.salesforce.com/en/content/learn/modules/asynchronous_apex)
 ## Next Topics to cover 
 
 - Callouts 
