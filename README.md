@@ -37,15 +37,12 @@ request access (if doesnt work)
 - Inviking Apex
 - Governor Limits
 
-
-
-
 ## Day 1 Home work
 - [Quickstart - Apex](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex)
 - [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner)
 - [Apply .NET Skills to Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet)
 
-## Day2 
+## Day 2 
 - [Apex Data types](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm)
 - [Primitives](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_primitives.htm)
     - Date, Time, DateTime, Boolean, Integer, String
@@ -100,6 +97,8 @@ request access (if doesnt work)
 - Callouts 
     Mixed DML
     Callouts to external services
+Integration with external systems
+Postman
 
 Callouts
 [Connect Api](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm)
