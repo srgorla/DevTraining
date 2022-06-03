@@ -37,10 +37,10 @@ request access (if doesnt work)
 - Inviking Apex
 - Governor Limits
 
-## Day 1 Home work
-- [Quickstart - Apex](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex)
-- [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner)
-- [Apply .NET Skills to Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet)
+- Home work
+    - [Quickstart - Apex](https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex)
+    - [Apex Basics & Database](https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner)
+    - [Apply .NET Skills to Salesforce](https://trailhead.salesforce.com/en/content/learn/trails/microsoft_dotnet)
 
 ## Day 2 
 - [Apex Data types](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_datatypes_variables_intro.htm)
