@@ -1,13 +1,13 @@
 # Salesforce Developer Training
-[Developer Taining Agenda](https://github.com/srgorla/DevTraining/blob/master/DevTrainingAgenda.txt)
-[Training Videos](https://onedrive.live.com/?authkey=%21AMLuYPs5TIoDagQ&id=D44A140F275D720D%213624&cid=D44A140F275D720D)
+- [Developer Taining Agenda](https://github.com/srgorla/DevTraining/blob/master/DevTrainingAgenda.txt)
+- [Training Videos](https://onedrive.live.com/?authkey=%21AMLuYPs5TIoDagQ&id=D44A140F275D720D%213624&cid=D44A140F275D720D)
 request access (if doesnt work)
-[Training Class source code](https://github.com/srgorla/DevTraining)
+- [Training Class source code](https://github.com/srgorla/DevTraining)
 
 
 ## Introduction
 - [Tools and Developer Expectations](https://github.com/srgorla/DevTraining/blob/master/Developer%20Training%20Team.xlsx)
-- [Requeired DevTools Installation (VS Code, Salesforce CLI, JDK setup and path settings in VS Code )](https://developer.salesforce.com/tools/vscode/en/getting-started/install)
+- [Required DevTools Installation (VS Code, Salesforce CLI, JDK setup and path settings in VS Code )](https://developer.salesforce.com/tools/vscode/en/getting-started/install)
 - [Sign up for free Developer Edition Org](https://developer.salesforce.com/signup)
 
 
