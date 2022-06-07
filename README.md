@@ -103,17 +103,33 @@ request access (if doesnt work)
     - [Asynchrounous Apex](https://trailhead.salesforce.com/en/content/learn/modules/asynchronous_apex)
 ## Next Topics to cover 
 
-- Callouts 
-    Mixed DML
-    Callouts to external services
-Integration with external systems
-Postman
+- Integration with external systems
+  - Postman
+    - [Postman Collections for Salesforce Apis](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-67cb9baa-e0da-4986-957e-88d8734647e2?ctx=documentation)
+  - Inbound
+    - [Connected Apps](https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/connected_apps.htm)
+    - [Authentication (OAuth 2.0)](https://help.salesforce.com/s/articleView?id=sf.remoteaccess_oauth_flows.htm&type=5)
+  - Outbound
+    - [Callouts](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts.htm)
+    - [Remote Site Settings](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_remote_site_settings.htm)
+    - [Named Credentials](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)
+    - Streaming Events 
+        - [Platform Events](https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/platform_events_intro.htm)
+        - [Changes Data Capture (CDC)](https://developer.salesforce.com/docs/atlas.en-us.change_data_capture.meta/change_data_capture/cdc_intro.htm)
+        - [Push Topic](https://developer.salesforce.com/docs/atlas.en-us.api_streaming.meta/api_streaming/working_with_pushtopics.htm)
+    - [Outbound messages](https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_om_outboundmessaging_understanding.htm) 
+- [Custom Settings](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_customsettings.htm)
+- [Custome metadata types](https://help.salesforce.com/s/articleView?id=sf.custommetadatatypes_overview.htm&type=5)
+- Homework
+    - [Apex Integration Services](https://trailhead.salesforce.com/en/content/learn/modules/apex_integration_services)
+ 
 
-Callouts
-[Connect Api](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm)
-## Project 
-    [Apex Specialist Super badge](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
 
+## Final Project 
+- [Apex Specialist Super badge](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
+
+
+- [Connect Api - Send chatter messages, notifications etc](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm)
 
 # Salesforce DX Project: Next Steps
 
