@@ -19,6 +19,7 @@ request access (if doesnt work)
 - [Apex Recipes](https://github.com/trailheadapps/apex-recipes)
 - [TrailMix](https://trailhead.salesforce.com/en/users/bgong0630/trailmixes/dex-450-trailhead-home-work)
 - [Prepare for Your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
+- [Connect Api - Send chatter messages, notifications etc](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm)
 
 
 ## Day 1
@@ -128,7 +129,7 @@ request access (if doesnt work)
 - [Apex Specialist Super badge](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
 
 
-- [Connect Api - Send chatter messages, notifications etc](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/connectAPI_overview.htm)
+
 
 # Salesforce DX Project: Next Steps
 
