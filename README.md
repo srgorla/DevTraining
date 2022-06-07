@@ -101,8 +101,7 @@ request access (if doesnt work)
 - [Commit](https://github.com/srgorla/DevTraining/commit/03fbb0527063774993d5cdf04eabcaa5121714cc)
 - Homework
     - [Asynchrounous Apex](https://trailhead.salesforce.com/en/content/learn/modules/asynchronous_apex)
-## Next Topics to cover 
-
+## Day 6 
 - Integration with external systems
   - Postman
     - [Postman Collections for Salesforce Apis](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-67cb9baa-e0da-4986-957e-88d8734647e2?ctx=documentation)
