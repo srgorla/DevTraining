@@ -35,7 +35,7 @@ request access (if doesnt work)
 - Apex Overivew
 - Anonymous Apex
 - Apex Class
-- Inviking Apex
+- Invoking Apex
 - Governor Limits
 
 - Home work
