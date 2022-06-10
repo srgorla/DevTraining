@@ -84,6 +84,7 @@ request access (if doesnt work)
     - Use Test Factory for Unit Test data creation
     - use testSetup for better performace
     - Code Coverage
+    - Each test should have asserion, otherwise the test is of no use 
     - Debug test failures
     - Test.start(), Test.stopTest() 
         - to get around too many SOQL queries, 
