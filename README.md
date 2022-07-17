@@ -4,6 +4,11 @@
 request access (if doesnt work)
 - [Training Class source code](https://github.com/srgorla/DevTraining)
 
+# Salesforce Admin Training 
+- [Training Videos](https://1drv.ms/f/s!AA1yXScPFErUm08)
+- [training Slides](https://1drv.ms/p/s!AnTt25l3adqueG4nZuxd_XJD_qA)
+- [Training Path](https://trailheadacademy.salesforce.com/classes/adx201e-administrative-essentials-for-new-admins-in-lightning-experience---extended)
+
 
 ## Introduction
 - [Tools and Developer Expectations](https://github.com/srgorla/DevTraining/blob/master/Developer%20Training%20Team.xlsx)
