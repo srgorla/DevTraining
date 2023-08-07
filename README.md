@@ -6,6 +6,7 @@ request access (if doesnt work)
 
 # Salesforce Admin Training 
 - [Training Videos](https://1drv.ms/f/s!AA1yXScPFErUm08)
+- [Direct link](https://onedrive.live.com/?id=D44A140F275D720D%213535&cid=D44A140F275D720D)
 - [Training Slides](https://1drv.ms/p/s!AnTt25l3adqueG4nZuxd_XJD_qA)
 - [Training Path](https://trailheadacademy.salesforce.com/classes/adx201e-administrative-essentials-for-new-admins-in-lightning-experience---extended)
 
